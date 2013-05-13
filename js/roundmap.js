@@ -10,7 +10,7 @@
         var guessLtLng = new google.maps.LatLng(GuessLLArr[0],GuessLLArr[1]);
 
         var mapOptions = {
-          zoom: 2,
+          zoom: 6,
           center: actualLtLng,
           mapTypeControl: false,
           streetViewControl: false,
